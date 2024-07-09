@@ -20,6 +20,5 @@
 #
 #
 ####################
-course = 'python for beginnr'
-print(course.upper())
+print(10/5)
 
