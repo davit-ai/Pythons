@@ -20,6 +20,6 @@
 #
 #
 ####################
-course = 'python for beginner'
+course = 'python for beginnr'
 print(course.upper())
 
